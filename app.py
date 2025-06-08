@@ -119,5 +119,4 @@ def update_heatmap(player_id, selected_matches, selected_group):
 # 🏁 Run Server
 # ------------------------------------------------------------------------------
 if __name__ == '__main__':
-   port=os.getenv('DB_PORT'),
-   app.run(debug=False, host='0.0.0.0', port=port)
+   app.run(debug=False, host='0.0.0.0', port=5432)
