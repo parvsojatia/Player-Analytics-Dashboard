@@ -27,7 +27,7 @@ Thumbs.db
 *.log
 
 # VSCode and PyCharm settings
-.vscode/
+
 .idea/
 
 # Heroku files
