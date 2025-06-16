@@ -31,12 +31,6 @@ Built with:
 
 ---
 
-## 📸 Demo
-
-![Dashboard Screenshot](assets/demo.png)
-
----
-
 ## 🔮 Coming Soon
 
 - 🧾 **Player Metrics Cards**: Clean, compact summaries of a player’s key metrics  
