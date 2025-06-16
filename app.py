@@ -20,6 +20,13 @@ app = dash.Dash(
 
 server = app.server 
 
+# ---------------------------------------------------------------------
+# 🌐 Add a lightweight /ping route to keep app awake
+# ---------------------------------------------------------------------
+@server.route("/ping")
+def ping():
+    return "✅ App is awake!", 200
+
 app.title = "Player Analytics Dashboard"
 
 # ------------------------------------------------------------------------------
