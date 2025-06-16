@@ -41,6 +41,4 @@ Built with:
 
 - 🧾 **Player Metrics Cards**: Clean, compact summaries of a player’s key metrics  
 - 🕸️ **Radar Charts**: Compare player profiles using interactive spider plots  
-- 🎨 **UI Overhaul**: Better spacing, dark/light themes, and mobile responsiveness  
-- 📅 **Match Timeline View**: Visualize a player’s activity throughout the game  
-- ⚡ **Performance Filters**: Filter events by time period, match type, competition & more  
+- 🎨 **UI Overhaul**: Better spacing, dark/light themes, and mobile responsiveness    
