@@ -33,6 +33,12 @@ Built with:
 
 ---
 
+## 🧠 Data Source
+
+- 📊 StatsBomb Open Data  
+- Events pre-processed and stored in **Supabase** PostgreSQL for performance
+
+---
 ## 🔮 Coming Soon
 
 - 🧾 **Player Metrics Cards**: Clean, compact summaries of a player’s key metrics  
